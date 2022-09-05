@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ADM3078EARZ)(type Legacy)(uri D:/Home/Stoch_IISC/STM_Nucleo_shields/STM_Morpho/ADM3078EARZ.lib)(options "")(descr ""))
+  (lib (name TCAN334GD)(type Legacy)(uri ${KIPRJMOD}/Libraries/TCAN334GD.lib)(options "")(descr ""))
+  (lib (name LD39200PU33R)(type Legacy)(uri ${KIPRJMOD}/Libraries/LD39200PU33R.lib)(options "")(descr ""))
+  (lib (name STM_Morpho-rescue)(type Legacy)(uri ${KIPRJMOD}/STM_Morpho-rescue.lib)(options "")(descr ""))
+)

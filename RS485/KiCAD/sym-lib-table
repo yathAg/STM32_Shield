@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ADM3078EARZ)(type Legacy)(uri ${KIPRJMOD}/Libraries/ADM3078EARZ.lib)(options "")(descr ""))
+  (lib (name STM_Morpho-rescue)(type Legacy)(uri ${KIPRJMOD}/STM_Morpho-rescue.lib)(options "")(descr ""))
+)

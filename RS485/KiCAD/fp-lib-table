@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ADM3078EARZ)(type Legacy)(uri ${KIPRJMOD}/Libraries/ADM3078EARZ.mod)(options "")(descr ""))
+  (lib (name ethernet_module)(type KiCad)(uri ${KIPRJMOD}/Libraries/ethernet_module.pretty)(options "")(descr ""))
+)

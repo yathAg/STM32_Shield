@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3078EARZ
+D Line Transceiver 1TR 1TX 1RX 8-Pin SOIC
+K
+F https://componentsearchengine.com/Datasheets/1/ADM3078EARZ.pdf
+$ENDCMP
+#
+#End Doc Library

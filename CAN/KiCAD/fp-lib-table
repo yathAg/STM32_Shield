@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LD39200PU33R)(type Legacy)(uri ${KIPRJMOD}/Libraries/LD39200PU33R.mod)(options "")(descr ""))
+  (lib (name TCAN334GD)(type Legacy)(uri ${KIPRJMOD}/Libraries/TCAN334GD.mod)(options "")(descr ""))
+)
